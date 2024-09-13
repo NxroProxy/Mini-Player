@@ -1,8 +1,8 @@
 const songsList = [
     {
-        name: "Jazz In Paris",
-        artist: "Media Right Productions",
-        src: "assets/1.mp3",
+        name: "Green Dot",
+        artist: "Young Boy Never Broke Again",
+        src: " ",
         cover: "assets/1.jpg"
     },
     {
