@@ -3,7 +3,7 @@ const songsList = [
         name: "Green Dot",
         artist: "Young Boy Never Broke Again",
         src: "https://www.youtube.com/watch?v=0UinbhsjaEo",
-        cover: "assets/1.jpg"
+        cover: "https://www.youtube.com/watch?v=0UinbhsjaEo"
     },
     {
         name: "Blue Skies",
