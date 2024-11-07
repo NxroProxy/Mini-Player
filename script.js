@@ -8,7 +8,7 @@ const songsList = [
     {
         name: "back On My BS",
         artist: "BigXThaPlug",
-        src: "BIg",
+        src: "BigXthaPlug  - Back On My BS [Official Lyric Video].mp3",
         cover: "assets/2.jpg"
     },
     {
