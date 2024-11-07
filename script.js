@@ -6,9 +6,9 @@ const songsList = [
         cover: "https://www.youtube.com/watch?v=0UinbhsjaEo"
     },
     {
-        name: "Blue Skies",
-        artist: "Silent Partner",
-        src: "assets/2.mp3",
+        name: "back On My BS",
+        artist: "BigXThaPlug",
+        src: "BIg",
         cover: "assets/2.jpg"
     },
     {
