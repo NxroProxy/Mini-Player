@@ -9,7 +9,7 @@ const songsList = [
         name: "Back On My BS",
         artist: "BigXThaPlug",
         src: "BigXthaPlug  - Back On My BS [Official Lyric Video].mp3",
-        cover: "Screenshot 2025-02-16 6.09.15 PM.png"
+        cover: "big.png"
     },
     {
         name: "Crimson Fly",
